@@ -27,3 +27,7 @@
 //#define PS2_MOUSE_ROTATE 270 /* Compensate for East-facing device orientation. */
 //#define PS2_MOUSE_ROTATE 180 /* Compensate for South-facing device orientation. */
 #define PS2_MOUSE_ROTATE 90 /* Compensate for West-facing device orientation. */
+
+#define MK_3_SPEED
+#define MK_W_OFFSET_UNMOD 1
+#define MK_W_INTERVAL_UNMOD 500
